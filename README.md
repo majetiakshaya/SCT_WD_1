@@ -13,4 +13,4 @@ CSS3 – Designed the layout, colors, responsiveness, and animations.
 JavaScript (ES6) – Added smooth scrolling and interactive navigation effects.
 
 # Live Demo
-[View Live Site}](https://majetiakshaya.github.io/SCT_WD_1)
+[View Live Site](https://majetiakshaya.github.io/SCT_WD_1)
